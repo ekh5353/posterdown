@@ -1,0 +1,11 @@
+---
+title: "Practice Poster"
+author: "Emily H"
+date: "11/15/2019"
+output: 
+  posterdown::posterdown_html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
